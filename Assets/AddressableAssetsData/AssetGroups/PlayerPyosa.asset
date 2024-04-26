@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: PlayerPyosa
+  m_EditorClassIdentifier: 
+  m_GroupName: PlayerPyosa
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f88ba504d936a9e4b97f54944eba4776
+  m_SerializeEntries:
+  - m_GUID: a41f37cf1361a6d4cb6c5feedea3c80b
+    m_Address: Assets/Res/PlayerSetUpDatas/PlayerPyosa.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerPyosa
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c2f534cc78c98734f89acff579c16b59, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fe58917a08b80e240a07185c5f6516ca, type: 2}
+    - {fileID: 11400000, guid: a11ffb449eff54d498c02ff91fb4191f, type: 2}

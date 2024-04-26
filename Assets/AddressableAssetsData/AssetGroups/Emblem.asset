@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Emblem
+  m_EditorClassIdentifier: 
+  m_GroupName: Emblem
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c3a3ceabce7f4ef42985a7498b673392
+  m_SerializeEntries:
+  - m_GUID: 21be1174ff222aa46aa2be109c18a8ee
+    m_Address: Assets/Res/Emblems/Backgrounds/Division32_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Emblem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0201e4af855aa5a46a4ffd9585c695ba
+    m_Address: Assets/Res/Emblems/Backgrounds/Division32_03.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Emblem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa44412c43b0fb94fb7faa752bd00e71
+    m_Address: Assets/Res/Emblems/Backgrounds/Division32_06.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Emblem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e114ffc257327544b2947c03d5ea4c4
+    m_Address: Assets/Res/Emblems/Backgrounds/Division32_07.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Emblem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83c9a8902cc22ef44a58824e9828434b
+    m_Address: Assets/Res/Emblems/Backgrounds/Division32_15.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Emblem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e4cebba6c40e774586a3e60cfd86195
+    m_Address: Assets/Res/Emblems/Backgrounds/Division32_18.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Emblem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1cafdcb9a2c5acd43ad3a9d616a4bf11
+    m_Address: Assets/Res/Emblems/Backgrounds/Division32_41.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Emblem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d240f6e667c54f499376ffedceaae08
+    m_Address: Assets/Res/Emblems/Backgrounds/Division32_46.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Emblem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fad2817e57034b94b8456e056ee41d45
+    m_Address: Assets/Res/Emblems/Backgrounds/Division32_88.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Emblem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f2a79eb7422a0b46b42f7a97e1ff44b
+    m_Address: Assets/Res/Emblems/Backgrounds/Division32_94.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Emblem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7b343f26430fa04794d4c839092017f
+    m_Address: Assets/Res/Emblems/Logos/Heraldic_charges_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Emblem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 919d7ffb8ea93784bbb0071a397165a6
+    m_Address: Assets/Res/Emblems/Logos/Heraldic_charges_19.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Emblem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7ccc708f02bde044b4eb1d333e796bb
+    m_Address: Assets/Res/Emblems/Logos/Heraldic_charges_27.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Emblem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: acbca3c6217043b4494b31d7371db353
+    m_Address: Assets/Res/Emblems/Logos/Heraldic_charges_32.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Emblem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8260974efd4589144ac868895dfae839
+    m_Address: Assets/Res/Emblems/Logos/Heraldic_charges_41.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Emblem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 638b6bd407eb13d4b917b2d5a2bc3273
+    m_Address: Assets/Res/Emblems/Logos/Heraldic_charges_52.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Emblem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 857c6f0a16169614b9ac8e48b8995e76
+    m_Address: Assets/Res/Emblems/Logos/Heraldic_charges_80.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Emblem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd3cbc0348bd0104fb8194c62483c8c4
+    m_Address: Assets/Res/Emblems/Logos/Heraldic_charges_88.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Emblem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3441d44af1e0e3344aadbe16cd509b8b
+    m_Address: Assets/Res/Emblems/Logos/Heraldic_charges_96.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Emblem
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f57182b5e45f88448c492db54b23285
+    m_Address: Assets/Res/Emblems/Logos/Heraldic_charges_99.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Emblem
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c2f534cc78c98734f89acff579c16b59, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 145d76941d14a9e47a0ad6ec4effd23e, type: 2}
+    - {fileID: 11400000, guid: 1e9af14ca0085be44871abd1dc8a5df8, type: 2}

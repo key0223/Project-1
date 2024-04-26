@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ChonghawnEffet
+  m_EditorClassIdentifier: 
+  m_GroupName: ChonghawnEffet
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b2360f4f984cc7742b527e7c09a71c40
+  m_SerializeEntries:
+  - m_GUID: 435e4428dcef2a64a9d79ac3fedd21c1
+    m_Address: Assets/Res/PlayerSetUpDatas/ChonghawnEffect.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ChonghawnEffect
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c2f534cc78c98734f89acff579c16b59, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2ef55580cd4fe3248af2f1863916813a, type: 2}
+    - {fileID: 11400000, guid: 94a5e3df102c3974b8459539c2005cc5, type: 2}

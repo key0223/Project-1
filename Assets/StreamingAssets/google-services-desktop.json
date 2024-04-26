@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "513993994544",
+    "firebase_url": "https://project1-d8cd6-default-rtdb.firebaseio.com",
+    "project_id": "project1-9008d",
+    "storage_bucket": "project1-9008d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513993994544:ios:8b2e8df3af292df4d218f5",
+        "android_client_info": {
+          "package_name": "com.ateliermirage.escorts"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ7-I588cU7t4ZOEHwCVN-QX_cEAYkrtM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513993994544-8268kfok0efvh119n2mbhbdorgbfjihh.apps.googleusercontent.com"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}

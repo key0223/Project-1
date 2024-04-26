@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UI
+  m_EditorClassIdentifier: 
+  m_GroupName: UI
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bf961dfbe4baa734e889a2bf667ab34d
+  m_SerializeEntries:
+  - m_GUID: 4e11ec30b1ab85b44afd7859bb78b7c4
+    m_Address: Assets/Prefabs/UI/SignInPanel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UI
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78fed41ecd66d8f438cf2c08ddb1cebd
+    m_Address: Assets/Prefabs/UI/NpcConversation.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UI
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0d9aa5cbaac9804caf003bbdc4e4efc
+    m_Address: Assets/Prefabs/UI/PlayerSetupPanel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UI
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c2f534cc78c98734f89acff579c16b59, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 80d7e90e4c0616c4ebb02c89a99db8c5, type: 2}
+    - {fileID: 11400000, guid: 08eb05baca4a93745a089036829e0fec, type: 2}

@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: PlayerSkin
+  m_EditorClassIdentifier: 
+  m_GroupName: PlayerSkin
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7eaf13bda4e5b974e978eefd378d4fdc
+  m_SerializeEntries:
+  - m_GUID: df961c5e032a883428a146728eb185dd
+    m_Address: Assets/Res/PlayerSkin/Character9.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerSkin
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c54d84358a4ac948bcc54df1b17d15f
+    m_Address: Assets/Res/PlayerSkin/Character7.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerSkin
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae7bc8539700fb942ad221420c5142fd
+    m_Address: Assets/Res/PlayerSkin/Character8.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerSkin
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d185dc55f13de8447be92b4f8e1f9802
+    m_Address: Assets/Res/PlayerSkin/Character6.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerSkin
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72f3055319fdd7140baeb2be56800315
+    m_Address: Assets/Res/PlayerSkin/Character5.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerSkin
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8eca683939c2804294ef0045dbd4b29
+    m_Address: Assets/Res/PlayerSkin/Character2.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerSkin
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7ad7107fe7b19f4abf3e7766bfd1099
+    m_Address: Assets/Res/PlayerSkin/Character1.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerSkin
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4aaca4a3ba115f4d803ab2fa908e8ed
+    m_Address: Assets/Res/PlayerSkin/Character3.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerSkin
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abb131410e6665147a6b74458124b1de
+    m_Address: Assets/Res/PlayerSkin/Character4.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerSkin
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5c8c60bd1eb37b49b2080344151e201
+    m_Address: Assets/Res/PlayerSkin/Character11.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerSkin
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc6c22ae401f0fc4c980f4f8d4468dfa
+    m_Address: Assets/Res/PlayerSkin/Character12.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerSkin
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f8bbae61b968944f8a419c3cef03e52
+    m_Address: Assets/Res/PlayerSkin/Character10.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PlayerSkin
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c2f534cc78c98734f89acff579c16b59, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2a82aebee926ad74c854772d01fc8e4e, type: 2}
+    - {fileID: 11400000, guid: a28b5f1e7e2dacb47b0018c61d7f7b2f, type: 2}

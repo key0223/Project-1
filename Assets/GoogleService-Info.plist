@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>513993994544-8268kfok0efvh119n2mbhbdorgbfjihh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.513993994544-8268kfok0efvh119n2mbhbdorgbfjihh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAJ7-I588cU7t4ZOEHwCVN-QX_cEAYkrtM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>513993994544</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ateliermirage.escorts</string>
+	<key>PROJECT_ID</key>
+	<string>project1-9008d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>project1-9008d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:513993994544:ios:8b2e8df3af292df4d218f5</string>
+	<key>DATABASE_URL</key>
+	<string>https://project1-d8cd6-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
